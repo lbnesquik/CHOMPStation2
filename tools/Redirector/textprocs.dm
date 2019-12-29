@@ -45,7 +45,7 @@ proc
 
 	dd_hasPrefix(text, prefix)
 		var/start = 1
-		var/end = length(prefix) + 1
+		var/end = lentext(prefix) + 1
 		return findtextEx(text, prefix, start, end)
 
 
