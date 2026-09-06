@@ -391,6 +391,7 @@
 	wielded_item_state = "m41ab-wielded"
 	magazine_type = /obj/item/ammo_magazine/m41
 	allowed_magazines = list(/obj/item/ammo_magazine/m41)
+	ammo_type = /obj/item/ammo_casing/a10x24
 	icon_state="m41b"
 	projectile_type = /obj/item/projectile/bullet/rifle/a10x24
 	firemodes = list(
@@ -415,6 +416,7 @@
 	wielded_item_state = "m41a-wielded"
 	magazine_type = /obj/item/ammo_magazine/m41
 	allowed_magazines = list(/obj/item/ammo_magazine/m41)
+	ammo_type = /obj/item/ammo_casing/a10x24
 	icon_state="m41a"
 	projectile_type = /obj/item/projectile/bullet/rifle/a10x24
 	firemodes = list(
