@@ -77,3 +77,12 @@
   - bugfix: some missing gear tweaks
   Diana:
   - code_imp: Removes a broken check for inserting diona nymphs into FBPs
+2026-10-08:
+  CHOMPStation2StaffMirrorBot:
+  - bugfix: broken casino chips no longer self delete or stack with actual chips
+  - qol: Description info now tells you if a coat/suit has storage.
+  - spellcheck: fix spelling in the vorespawn warning text
+  Diana:
+  - rscadd: Obfuscate Key now hides your key in the who list
+  Kashargul:
+  - maptweak: fixes missing r-ust pipe
